@@ -1,2 +1,2 @@
-/src/logs/**  # Ignore all files within your log directory initially
-!/src/logs/   # Explicitly add the empty log directory back 
+/src/logs/
+!/src/logs/.gitkeep
